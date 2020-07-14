@@ -29,6 +29,10 @@ clear清除屏幕
 git log 查看提交版本
 git reset --hard 版本号  从暂存区恢复到工作区 
 git stash 将本地修改存储起来(git解决git pull拉不到东西的问题)
+删除：
+git rm 文件名
+git commit -m "for test"
+git push -u github master
 
 ~~~
 
