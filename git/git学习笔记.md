@@ -28,6 +28,7 @@ git diff 查看工作区和暂存区版本的不同之处
 clear清除屏幕
 git log 查看提交版本
 git reset --hard 版本号  从暂存区恢复到工作区 
+git stash 将本地修改存储起来(git解决git pull拉不到东西的问题)
 
 ~~~
 
